@@ -1,4 +1,6 @@
-# co097427c919a8af765b6a9ed
+# Add To Cart - Shopping List App
+
+Programmed using HTML, CSS and Jacascript as part of the Scrimba Javascript course.
 
 Quick start:
 
